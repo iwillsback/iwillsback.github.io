@@ -1,0 +1,25 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background: url('http://4.bp.blogspot.com/-hablvh07wBc/UpZLxlCvlVI/AAAAAAAADBI/c6GPN_o9ba4/s1600/escudo-do-botafogo+luto.png') no-repeat center center fixed;
+
+    color: #fc1111;
+    margin: 50;
+}
+
+#detalhes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+#detalhes-container img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+#detalhes-container p {
+    text-align: center;
+}

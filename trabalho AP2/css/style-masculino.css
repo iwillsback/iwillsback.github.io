@@ -1,0 +1,19 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    gap: .5em;
+    flex-wrap: wrap;
+}
+
+header {
+    background-color: #53f00a;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    max-width: 400px;
+}
